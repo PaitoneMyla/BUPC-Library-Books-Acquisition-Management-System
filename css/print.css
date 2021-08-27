@@ -1,0 +1,42 @@
+@page
+{
+
+  size:A4 landscape;
+  margin top: 100px;
+}
+#print-btn
+{
+  display: none;
+  visibility: none;
+}
+#b1
+{
+  display: none;
+  visibility: none;
+}
+#b2
+{
+  display: none;
+  visibility: none;
+}
+#b3
+{
+  display: none;
+  visibility: none;
+}
+#nav
+{
+  display: none;
+  visibility: none;
+}
+#logout
+{
+  display: none;
+  visibility: none;
+}
+#back
+{
+  display: none;
+  visibility: none;
+}
+
